@@ -1,5 +1,3 @@
-package com.dersimi.cloud.utils;
-
 import java.security.SecureRandom;
 import java.util.StringJoiner;
 
