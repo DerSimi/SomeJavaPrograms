@@ -1,5 +1,3 @@
-package com.dersimi.cloud.utils;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -25,6 +23,10 @@ import java.util.List;
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  * <p>
  * This file was created by Simon R./DerSimi on 10.09.2018
+ */
+
+/** 
+ * This file is a few years old. It was used to search in a string for a specific char sequence and to identify the match
  */
 public class StringContains {
 
